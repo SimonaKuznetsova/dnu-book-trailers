@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dnu-book-trailers/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dnu-book-trailers/static/js/main.b4068610.chunk.js",
+    "main.js.map": "/dnu-book-trailers/static/js/main.b4068610.chunk.js.map",
+    "runtime-main.js": "/dnu-book-trailers/static/js/runtime-main.636ec753.js",
+    "runtime-main.js.map": "/dnu-book-trailers/static/js/runtime-main.636ec753.js.map",
+    "static/js/2.73c02723.chunk.js": "/dnu-book-trailers/static/js/2.73c02723.chunk.js",
+    "static/js/2.73c02723.chunk.js.map": "/dnu-book-trailers/static/js/2.73c02723.chunk.js.map",
+    "static/js/3.9513bfb6.chunk.js": "/dnu-book-trailers/static/js/3.9513bfb6.chunk.js",
+    "static/js/3.9513bfb6.chunk.js.map": "/dnu-book-trailers/static/js/3.9513bfb6.chunk.js.map",
+    "index.html": "/dnu-book-trailers/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dnu-book-trailers/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.73c02723.chunk.js.LICENSE.txt": "/dnu-book-trailers/static/js/2.73c02723.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dnu-book-trailers/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.636ec753.js",
+    "static/js/2.73c02723.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b4068610.chunk.js"
+  ]
+}
